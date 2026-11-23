@@ -3,9 +3,9 @@
         {
             "id": "black-friday",
             "productId": "com.simonemontalto.countdownwidget.inapp.premium.lifetime",
-            "discountPercentage": 50,
-            "startAvailabilityDate": "2024-11-25",
-            "endAvailabilityDate": "2024-12-01"
+            "discountPercentage": 30,
+            "startAvailabilityDate": "2026-11-23",
+            "endAvailabilityDate": "2026-12-01"
         }
     ]
 }
